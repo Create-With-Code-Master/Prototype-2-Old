@@ -1,4 +1,4 @@
-Prototype 2: 
+# Prototype 2: Basic Gameplay
 
 Starter assets for Prototype 2 from the Unity Create With Code curriculum.
 
