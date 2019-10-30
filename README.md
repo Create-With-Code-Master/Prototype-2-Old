@@ -8,6 +8,6 @@ To get started:
 * Clone to your development machine.
 * Launch Unity Hub and Add the cloned repository.
 * Click on the new project to launch Unity. The first time you launch it will be sloooow, like 3 or 4 minutes. Subsequent launches will be much faster.
-* Pick up the tutorial at Lesson 2.1 step 4.
+* Pick up the tutorial at 
 
 Assignments, for Canvas, are in the [Create With Code](https://github.com/DouglasUrner/Create-With-Code.git) repository.
